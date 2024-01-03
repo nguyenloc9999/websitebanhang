@@ -1,0 +1,51 @@
+:where(.css-dev-only-do-not-override-txh9fw).ant-table-wrapper .ant-table-thead>tr>th,
+:where(.css-dev-only-do-not-override-txh9fw).ant-table-wrapper .ant-table-thead>tr>td {
+  background: #ff7600;
+  color: white;
+}
+
+.custom-name {
+  color: #ff7600;
+}
+
+.custom-total {
+  color: #eb0303;
+}
+
+.custom-table {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-table td,
+th {
+  border: 1px solid #f3f3f3;
+  border-collapse: collapse;
+}
+
+.custom-table {
+  font-weight: bold;
+}
+
+.custom-table th {
+  color: white;
+}
+.quantity-input {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.quantity-input input {
+  width: 40px;
+  text-align: center;
+  font-size: 16px;
+  margin: 0 5px;
+}

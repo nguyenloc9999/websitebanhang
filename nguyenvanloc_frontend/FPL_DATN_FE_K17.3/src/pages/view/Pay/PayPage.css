@@ -1,0 +1,14 @@
+.active {
+    background-color: #1990C6;
+    /* Màu nền */
+    color: white;
+    /* Màu văn bản */
+    border-color: #1990C6;
+    /* Màu viền */
+}
+
+.larger-radio {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}

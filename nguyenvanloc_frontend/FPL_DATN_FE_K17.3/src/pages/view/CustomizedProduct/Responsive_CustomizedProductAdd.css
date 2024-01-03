@@ -1,0 +1,220 @@
+@media (min-width: 740px) and (max-width: 1023px) {
+    .content1 {
+        height: 700px;
+    }
+
+    div.ml-16s {
+        margin-left: 39px;
+        padding-top: 20px;
+    }
+
+    h3.iklm1 {
+        margin-left: -169px;
+        margin-right: 4px;
+    }
+
+    div.np1 {
+        margin-left: -28px;
+    }
+
+    .product-image1 {
+        width: 487px;
+        height: 239px;
+    }
+
+    .img1s {
+        padding-left: 189px;
+        width: 496px;
+        height: 239px;
+    }
+
+    .product-medium1 {
+        display: flex;
+        padding-left: 164px;
+        padding-top: 30px;
+    }
+
+    .price1 {
+        font-size: 27px;
+        font-weight: 700;
+        color: red;
+        padding-top: 33px;
+        padding-left: 343px;
+    }
+
+    .product-text1 {
+        background: #f3f3f3;
+        width: 287px;
+        height: 137px;
+        margin-left: -332px;
+        border-radius: 16px;
+    }
+
+    div .mn1 {
+        width: 82px;
+    }
+
+    .mb-5s {
+        margin-bottom: 3rem !important;
+        margin-left: -131px;
+    }
+
+    .mb-6s {
+        margin-bottom: 1.5rem;
+        width: 500px;
+        margin-left: -320px;
+    }
+
+    div .hls {
+        width: 124px;
+        font-size: 10px;
+        margin-left: 4px;
+    }
+
+}
+
+@media (max-width: 739px) {
+
+    .content1 {
+        height: 560px;
+        margin-left: -121px;
+    }
+
+    div.ml-16s {
+        margin-left: 25px;
+        font-size: 8px;
+        padding-top: 41px;
+    }
+
+    h3.iklm1 {
+        margin-left: -61px;
+        margin-right: 209px;
+        font-size: 10px;
+        margin-top: -15px;
+    }
+
+    .price1 {
+        margin-top: -12px;
+        font-size: 11px;
+
+    }
+
+    .mb-6s {
+        margin-bottom: 1.5rem;
+        width: 132px;
+        margin-left: 1px;
+        height: 93px;
+    }
+
+    .flex {
+        clear: both;
+    }
+
+    .product-text1 {
+        margin-left: -469px;
+        width: 158px;
+        height: 104px;
+    }
+
+    .product-image1 {
+        margin-left: -53px;
+        width: 43%;
+        height: 106px;
+    }
+
+    .img1s {
+        width: 100%;
+        height: 106px;
+    }
+
+
+    .btn2s {
+        width: 30px !important;
+        height: 30px !important;
+        font-size: 10px !important;
+    }
+
+    .pill-img1 {
+        width: 60px;
+        height: 100%;
+    }
+
+    .text1s {
+        font-size: 10px;
+    }
+
+    .text2s {
+        font-size: 10px;
+    }
+
+    .efs {
+        margin-top: 2px;
+    }
+
+    div.lps {
+        padding-left: 5px !important;
+    }
+
+
+    div.kjs {
+        padding-left: 53px;
+    }
+
+    .product-medium1 {
+        margin-left: -54px;
+        margin-top: -24px;
+    }
+
+
+    .colors p {
+        font-size: 12px;
+        margin-top: 44px;
+    }
+
+    .sizes p {
+        font-size: 12px;
+        padding-right: 16px;
+    }
+
+    .materials p {
+        font-size: 12px;
+        margin-top: 24px;
+    }
+
+
+    button.btn-bs {
+        margin-left: 1px;
+    }
+
+    div .btn-bs {
+        padding: 0 22px;
+    }
+
+    .quantitys p {
+        font-size: 14px;
+        margin-left: -26px;
+    }
+
+    button.btn-cs {
+        margin-left: -10px;
+        width: 27%;
+        height: 34px;
+    }
+
+    input.btn-ds {
+        width: 55%;
+        height: 34px;
+    }
+
+    button.btn-es {
+        width: 27%;
+        height: 34px;
+    }
+
+    button.btn-fs {
+        width: 70%;
+        height: 34px;
+        font-size: 10px;
+    }
+
+}

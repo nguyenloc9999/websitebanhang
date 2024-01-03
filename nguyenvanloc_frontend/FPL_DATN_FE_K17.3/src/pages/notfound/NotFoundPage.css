@@ -1,0 +1,28 @@
+div.error-container {
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+img.image20 {
+  width: 700px;
+  height: auto;
+}
+
+div.error-content {
+  padding: 20px;
+  text-align: center;
+}
+
+h1.notfound1 {
+  color: #e74c3c;
+  font-size: 24px;
+}
+
+p.notfound2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+  

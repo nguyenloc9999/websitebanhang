@@ -1,0 +1,285 @@
+.content1 {
+    width: 100%;
+    background: #fff;
+    margin-top: 10px;
+    max-width: 100%;
+    height: 800px;
+    transition: height 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.colors,
+.sizes,
+.materials {
+    margin-top: 10px;
+    transition: height 0.3s ease;
+    flex: 1;
+}
+
+.btn-show-more {
+    width: 100px;
+    font-size: 13px;
+    color: #ff7600;
+    font-weight: bold;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.collapses {
+    visibility: inherit;
+}
+
+.collapses:not(.show) {
+    display: block;
+}
+.product-size {
+    font-size: 16px;
+    /* Kích thước chữ chính */
+    margin-top: 20px;
+}
+
+.product-size p {
+    margin-bottom: 8px;
+}
+
+.note {
+    font-size: 12px;
+    /* Kích thước chữ lưu ý nhỏ hơn */
+    color: #888;
+    /* Màu chữ */
+}
+
+.collapses {
+    margin-top: 10px;
+}
+
+.iklm1 {
+    width: 800px;
+    font-size: 27px;
+}
+
+.product-image1 {
+    padding-left: 120px;
+    width: 800px;
+    height: 370px;
+}
+
+.product-medium1 {
+    display: flex;
+    padding-left: 197px;
+    padding-top: 40px;
+}
+
+.product-text1 {
+    width: 400px;
+    height: 120px;
+    margin-left: 100px;
+    border-radius: 16px;
+}
+
+.text1s {
+    color: gray;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+.text2s {
+    color: #ff7600;
+    font-weight: 700;
+}
+
+.kjs {
+    padding-left: 92px !important;
+}
+
+.colors p {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.sizes p {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.materials p {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.sp2s {
+    font-size: 15px !important;
+    color: #8b8b8b;
+    margin-top: 1px !important;
+}
+
+div .btn1s {
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+
+div .btn-solid-primary1s {
+    color: #fff;
+    position: relative;
+    font-weight: 700;
+    background: #ff7600;
+}
+
+div .btn-as {
+    font-size: 18px;
+    height: 48px;
+    padding: 0 16px;
+    max-width: 200px;
+}
+
+div .btn-solid-primary2s {
+    color: black;
+    background: #fff;
+}
+
+.pill-img1 {
+    width: 100%;
+    height: 70px;
+}
+
+.quantitys p {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+div .btn-cs {
+    font-size: 18px;
+    height: 40px;
+    padding: 0 16px;
+    max-width: 100px;
+    text-decoration: none;
+}
+
+div .btn-4cs {
+    font-size: 18px;
+    height: 30px;
+    padding: 0 16px;
+    max-width: 80px;
+    text-decoration: none;
+}
+
+div .btn-solid-primary3s {
+    color: black;
+    position: relative;
+    font-weight: 800;
+    background: gainsboro;
+    opacity: 0.3;
+    border: 2px solid gainsboro;
+}
+
+div .btn-solid-primary4s {
+    color: black;
+    position: relative;
+    font-weight: 800;
+    background: gainsboro;
+    opacity: 0.3;
+    border: 2px solid gainsboro;
+}
+
+div .btn3s {
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.button1 {
+    margin-top: 34px;
+}
+
+div .btn-ds {
+    font-size: 18px;
+    height: 40px;
+    padding: 0 16px;
+    width: 93px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+div .btn-solid-primary4s {
+    color: black;
+    position: relative;
+    font-weight: 400;
+    background: white;
+    border: 2px solid gainsboro;
+}
+
+div .btn4s {
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+div .btn-es {
+    font-size: 18px;
+    height: 40px;
+    padding: 0 16px;
+    max-width: 100px;
+}
+
+div .btn-solid-primary5s {
+    color: black;
+    position: relative;
+    font-weight: 800;
+    background: gainsboro;
+    opacity: 0.3;
+    border: 2px solid gainsboro;
+}
+
+div .btn5s {
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+div .btn6s {
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+div .btn-solid-primary6s {
+    color: #fff;
+    position: relative;
+    font-weight: 700;
+    background: #fc8924;
+    border: 1px solid #fc8924;
+    border-radius: 5px;
+}
+
+div .btn-solid-primary6s:hover {
+    border: 1px solid #ff7600;
+    background-color: #ff7600;
+    border-color: #ff7600;
+}
+
+div .btn-fs {
+    font-size: 14px;
+    padding: 0 16px;
+    max-width: 200px;
+    height: 40px;
+    margin-left: 10px;
+}

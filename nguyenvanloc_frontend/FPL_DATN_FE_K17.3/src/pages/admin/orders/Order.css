@@ -1,0 +1,8 @@
+ul li a.font-medium {
+  font-weight: bold;
+}
+
+ul li a.active2 {
+  color: #3c91e6;
+  cursor: pointer;
+}
